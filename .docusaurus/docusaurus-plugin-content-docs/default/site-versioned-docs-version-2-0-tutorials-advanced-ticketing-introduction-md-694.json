@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/introduction",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/introduction",
+  "title": "Introduction",
+  "description": "In this tutorial, you'll learn how to create a seamless ticketing experience that is cheaper than alternative methods and can also handle very large audiences.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/introduction.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/introduction",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Function Call Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/fc-drops"
+  },
+  "next": {
+    "title": "Solution Architecture",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/architecture"
+  }
+}

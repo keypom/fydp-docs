@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+  "title": "Non-Fungible Token Drops",
+  "description": "Non-Fungible Token drops are a special type that allows users to \"preload\" the drop with NFTs.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Non Fungible Token Drops",
+    "sidebar_position": 3
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Simple Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops"
+  },
+  "next": {
+    "title": "Fungible Token Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/ft-drops"
+  }
+}

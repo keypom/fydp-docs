@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/KeyInfo",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/KeyInfo",
+  "title": "Interface: KeyInfo",
+  "description": "Important information returned in many view calls regarding a specific access key.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/KeyInfo.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/KeyInfo",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/KeyInfo",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "KeyInfo",
+    "title": "Interface: KeyInfo",
+    "sidebar_label": "KeyInfo",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "GeneratedKeyPairs",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/GeneratedKeyPairs"
+  },
+  "next": {
+    "title": "Method",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/Method"
+  }
+}

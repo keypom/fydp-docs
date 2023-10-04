@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Cookbook/utilities",
+  "id": "version-2.0/Cookbook/utilities",
+  "title": "Utilities",
+  "description": "This part of the cookbook contains utilities and miscellaneous common Keypom use cases. This includes creating NFT series, using the DAO bot and more.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/utilities.md",
+  "sourceDirName": "Cookbook",
+  "slug": "/Cookbook/utilities",
+  "permalink": "/docs/2.0/Cookbook/utilities",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/utilities.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Utilities"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/Introduction/Introduction",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/Introduction",
+  "title": "Introduction",
+  "description": "To view our debut talk at NEARCON 2022, click here.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/Introduction.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/Introduction",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/Introduction/",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/Introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Introduction to Keypom",
+    "sidebar_position": 1
+  }
+}

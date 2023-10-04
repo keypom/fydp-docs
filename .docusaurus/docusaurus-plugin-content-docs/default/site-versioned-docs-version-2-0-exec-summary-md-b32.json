@@ -1,0 +1,24 @@
+{
+  "unversionedId": "exec-summary",
+  "id": "version-2.0/exec-summary",
+  "title": "Keypom Executive Summary",
+  "description": "To discover the features and details of Keypom, begin your journey here.",
+  "source": "@site/versioned_docs/version-2.0/exec-summary.md",
+  "sourceDirName": ".",
+  "slug": "/exec-summary",
+  "permalink": "/docs/2.0/exec-summary",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/exec-summary.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {},
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/2.0/Concepts/welcome"
+  },
+  "next": {
+    "title": "NEAR Access Key Model",
+    "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys"
+  }
+}

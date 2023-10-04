@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/ft",
+  "id": "version-2.0/Cookbook/drops/ft",
+  "title": "Fungible Token Drops",
+  "description": "This part of the cookbook contains a quick overview on how to create an FT drop.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/ft.md",
+  "sourceDirName": "Cookbook/drops",
+  "slug": "/Cookbook/drops/ft",
+  "permalink": "/docs/2.0/Cookbook/drops/ft",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/ft.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Fungible Token Drops"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Non-Fungible Token Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/nft"
+  },
+  "next": {
+    "title": "Function Call Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/fc"
+  }
+}

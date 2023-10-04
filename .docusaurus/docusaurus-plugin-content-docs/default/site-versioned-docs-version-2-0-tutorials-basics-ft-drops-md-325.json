@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Basics/ft-drops",
+  "id": "version-2.0/Tutorials/Basics/ft-drops",
+  "title": "Fungible Token Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Basics/ft-drops.md",
+  "sourceDirName": "Tutorials/Basics",
+  "slug": "/Tutorials/Basics/ft-drops",
+  "permalink": "/docs/2.0/Tutorials/Basics/ft-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Basics/ft-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Fungible Token Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Non Fungible Token Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/nft-drops"
+  },
+  "next": {
+    "title": "Function Call Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/fc-drops"
+  }
+}

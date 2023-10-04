@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/fc",
+  "id": "version-2.0/Cookbook/drops/fc",
+  "title": "Function Call Drops",
+  "description": "This part of the cookbook contains a quick overview on how to create an assortment of function call drops, using Keypom injected arguments, and attaching NFTs to your FC drop by lazy minting them.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/fc.md",
+  "sourceDirName": "Cookbook/drops",
+  "slug": "/Cookbook/drops/fc",
+  "permalink": "/docs/2.0/Cookbook/drops/fc",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/fc.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Function Call Drops"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Fungible Token Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/ft"
+  },
+  "next": {
+    "title": "Trial Account Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/trial"
+  }
+}

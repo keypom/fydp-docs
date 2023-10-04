@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/testing",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/testing",
+  "title": "Running the Keypom Tests",
+  "description": "We have put together a suite of test cases that can be found in the tests folder. These range anywhere from simple config tests all the way to full blown ticketing and POAPs.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/testing.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/testing",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/testing",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/testing.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Keypom Tests",
+    "sidebar_position": 8
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Querying Information from Keypom",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/querying"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/contribute"
+  }
+}

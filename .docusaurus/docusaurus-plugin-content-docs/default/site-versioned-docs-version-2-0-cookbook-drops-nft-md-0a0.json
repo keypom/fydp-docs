@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/nft",
+  "id": "version-2.0/Cookbook/drops/nft",
+  "title": "Non-Fungible Token Drops",
+  "description": "This part of the cookbook contains a quick overview on how to create an NFT drop.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/nft.md",
+  "sourceDirName": "Cookbook/drops",
+  "slug": "/Cookbook/drops/nft",
+  "permalink": "/docs/2.0/Cookbook/drops/nft",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/nft.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Non-Fungible Token Drops"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Simple NEAR Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/NEAR"
+  },
+  "next": {
+    "title": "Fungible Token Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/ft"
+  }
+}

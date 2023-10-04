@@ -1,0 +1,15 @@
+{
+  "unversionedId": "design-log/main-log",
+  "id": "design-log/main-log",
+  "title": "Main Design Log",
+  "description": "",
+  "source": "@site/docs/design-log/main-log.md",
+  "sourceDirName": "design-log",
+  "slug": "/design-log/main-log",
+  "permalink": "/docs/design-log/main-log",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/docs/design-log/main-log.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

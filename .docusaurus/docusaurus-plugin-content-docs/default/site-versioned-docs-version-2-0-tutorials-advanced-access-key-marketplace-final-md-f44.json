@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/AccessKeyMarketplace/final",
+  "id": "version-2.0/Tutorials/Advanced/AccessKeyMarketplace/final",
+  "title": "Final Product",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/AccessKeyMarketplace/final.md",
+  "sourceDirName": "Tutorials/Advanced/AccessKeyMarketplace",
+  "slug": "/Tutorials/Advanced/AccessKeyMarketplace/final",
+  "permalink": "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/final",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/AccessKeyMarketplace/final.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Final Product"
+  }
+}

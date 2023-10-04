@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Concepts/welcome",
+  "id": "version-2.0/Concepts/welcome",
+  "title": "Concepts",
+  "description": "Welcome to the concepts section of Keypom's developer documentation. Here you'll learn all about Keypom.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/welcome.md",
+  "sourceDirName": "Concepts",
+  "slug": "/Concepts/welcome",
+  "permalink": "/docs/2.0/Concepts/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/welcome.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Home"
+  },
+  "sidebar": "Concepts",
+  "next": {
+    "title": "Keypom Executive Summary",
+    "permalink": "/docs/2.0/exec-summary"
+  }
+}

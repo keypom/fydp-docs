@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Tutorials/Basics/getting-started",
+  "id": "version-2.0/Tutorials/Basics/getting-started",
+  "title": "Getting Started",
+  "description": "The primary goal of a Keypom drop is to send assets to users with the click of a link regardless of whether they have a wallet or not. These assets can come in many forms which will be broken down below.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Basics/getting-started.md",
+  "sourceDirName": "Tutorials/Basics",
+  "slug": "/Tutorials/Basics/getting-started",
+  "permalink": "/docs/2.0/Tutorials/Basics/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Basics/getting-started.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {},
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/2.0/Tutorials/welcome"
+  },
+  "next": {
+    "title": "Simple Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/simple-drops"
+  }
+}

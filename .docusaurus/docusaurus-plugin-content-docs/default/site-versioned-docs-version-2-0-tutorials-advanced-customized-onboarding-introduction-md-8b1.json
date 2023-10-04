@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/CustomizedOnboarding/introduction",
+  "id": "version-2.0/Tutorials/Advanced/CustomizedOnboarding/introduction",
+  "title": "Introduction",
+  "description": "One of the biggest pain-points with Web3 is that users need to fund wallets before they interact with a dApp. In Web2, a user can find value in an application by using it before they go through the messy onboarding process.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/CustomizedOnboarding/introduction.md",
+  "sourceDirName": "Tutorials/Advanced/CustomizedOnboarding",
+  "slug": "/Tutorials/Advanced/CustomizedOnboarding/introduction",
+  "permalink": "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/CustomizedOnboarding/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  }
+}

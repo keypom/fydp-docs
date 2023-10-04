@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+  "title": "Types of Drops",
+  "description": "There are four types of drops, each with different types of assets. These drops can be claimed either with a brand new NEAR account or an existing one.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Introduction to Keypom",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/overview"
+  },
+  "next": {
+    "title": "Simple Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops"
+  }
+}

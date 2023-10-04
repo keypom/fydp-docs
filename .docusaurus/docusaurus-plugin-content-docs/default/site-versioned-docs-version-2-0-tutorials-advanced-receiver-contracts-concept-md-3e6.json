@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/ReceiverContracts/concept",
+  "id": "version-2.0/Tutorials/Advanced/ReceiverContracts/concept",
+  "title": "Concept",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ReceiverContracts/concept.md",
+  "sourceDirName": "Tutorials/Advanced/ReceiverContracts",
+  "slug": "/Tutorials/Advanced/ReceiverContracts/concept",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ReceiverContracts/concept",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ReceiverContracts/concept.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Concept"
+  }
+}

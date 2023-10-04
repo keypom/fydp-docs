@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Basics/fc-drops",
+  "id": "version-2.0/Tutorials/Basics/fc-drops",
+  "title": "Function Call Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Basics/fc-drops.md",
+  "sourceDirName": "Tutorials/Basics",
+  "slug": "/Tutorials/Basics/fc-drops",
+  "permalink": "/docs/2.0/Tutorials/Basics/fc-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Basics/fc-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Function Call Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Fungible Token Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/ft-drops"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/introduction"
+  }
+}

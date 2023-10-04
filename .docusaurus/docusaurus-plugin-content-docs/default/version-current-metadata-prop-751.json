@@ -1,0 +1,38 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "3.0",
+  "banner": null,
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "Concepts": [],
+    "DesignLog": [
+      {
+        "type": "link",
+        "label": "Main Design Log",
+        "href": "/docs/DesignLog/main-log",
+        "docId": "DesignLog/main-log"
+      }
+    ],
+    "Tutorials": [],
+    "TrialAccounts": [],
+    "Cookbook": [],
+    "TypeDocSDK": []
+  },
+  "docs": {
+    "DesignLog/main-log": {
+      "id": "DesignLog/main-log",
+      "title": "Main Design Log",
+      "description": "",
+      "sidebar": "DesignLog"
+    },
+    "placeholder": {
+      "id": "placeholder",
+      "title": "placeholder",
+      "description": "place is held"
+    }
+  }
+}

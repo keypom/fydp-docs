@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Cookbook/welcome",
+  "id": "version-2.0/Cookbook/welcome",
+  "title": "Introduction",
+  "description": "Welcome to the Keypom cookbook! Here you can explore Keypom's building blocks that help create awesome onboarding experiences. The idea of these pages is for them to act as a quick reference for common use cases when using the Keypom protocol. Every use case will have a corresponding code snippet using the Keypom JS SDK.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/welcome.md",
+  "sourceDirName": "Cookbook",
+  "slug": "/Cookbook/welcome",
+  "permalink": "/docs/2.0/Cookbook/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/welcome.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Cookbook",
+  "next": {
+    "title": "Simple NEAR Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/NEAR"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/bos-tool",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/bos-tool",
+  "title": "BOS Version",
+  "description": "During the ETHGlobal Waterloo Hackathon, a chunk of this tutorial was ported over to BOS. This section is a quick guide on how to use it.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/bos-tool.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/bos-tool",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/bos-tool",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/bos-tool.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "🚀 BOS Version"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "View Event Analytics",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/analytics"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/introduction"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Tutorials/Advanced/homepage",
+  "id": "version-2.0/Tutorials/Advanced/homepage",
+  "title": "Advanced Tutorials",
+  "description": "Advanced Tutorials are in progress!",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/homepage.md",
+  "sourceDirName": "Tutorials/Advanced",
+  "slug": "/Tutorials/Advanced/homepage",
+  "permalink": "/docs/2.0/Tutorials/Advanced/homepage",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/homepage.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Coming Soon..."
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Keypom BOS Components",
+    "permalink": "/docs/2.0/Tutorials/BOS/welcome"
+  }
+}

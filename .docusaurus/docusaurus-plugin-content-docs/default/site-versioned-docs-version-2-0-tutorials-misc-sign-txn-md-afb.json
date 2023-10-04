@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Tutorials/Misc/sign-txn",
+  "id": "version-2.0/Tutorials/Misc/sign-txn",
+  "title": "Methods of Signing Transactions",
+  "description": "Place holder page to discuss different methods of signing transactions.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Misc/sign-txn.md",
+  "sourceDirName": "Tutorials/Misc",
+  "slug": "/Tutorials/Misc/sign-txn",
+  "permalink": "/docs/2.0/Tutorials/Misc/sign-txn",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Misc/sign-txn.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {}
+}

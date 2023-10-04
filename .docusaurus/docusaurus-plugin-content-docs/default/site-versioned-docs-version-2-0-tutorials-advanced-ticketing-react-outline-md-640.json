@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/react-outline",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/react-outline",
+  "title": "App Design",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/react-outline.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/react-outline",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/react-outline",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/react-outline.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "App Design"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Testing the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop-test"
+  },
+  "next": {
+    "title": "Attendee Ticket Page Code",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/user-code"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/NFTData",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/NFTData",
+  "title": "Interface: NFTData",
+  "description": "General structure of a Non-Fungible Token drop. This should be passed into createDrop if you wish to have an NFT drop.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/NFTData.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/NFTData",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/NFTData",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "NFTData",
+    "title": "Interface: NFTData",
+    "sidebar_label": "NFTData",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "Method",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/Method"
+  },
+  "next": {
+    "title": "NonFungibleTokenMetadata",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/NonFungibleTokenMetadata"
+  }
+}

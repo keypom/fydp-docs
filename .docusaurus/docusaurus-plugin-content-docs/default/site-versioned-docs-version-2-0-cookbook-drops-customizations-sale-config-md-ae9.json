@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/customizations/saleConfig",
+  "id": "version-2.0/Cookbook/drops/customizations/saleConfig",
+  "title": "Sale Configurations",
+  "description": "This part of the cookbook contains everything related to drops, including creating a drop, password protecting it, and utilizing Keypom arguments.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/customizations/saleConfig.md",
+  "sourceDirName": "Cookbook/drops/customizations",
+  "slug": "/Cookbook/drops/customizations/saleConfig",
+  "permalink": "/docs/2.0/Cookbook/drops/customizations/saleConfig",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/customizations/saleConfig.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Access Key Marketplace"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Time Configurations",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/timeConfig"
+  },
+  "next": {
+    "title": "Claiming Behavior",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/usageConfig"
+  }
+}

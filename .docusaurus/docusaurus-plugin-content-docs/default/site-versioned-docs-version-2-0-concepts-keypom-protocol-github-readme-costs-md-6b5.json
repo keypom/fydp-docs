@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/costs",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/costs",
+  "title": "Costs",
+  "description": "It is important to note that the Keypom contract is 100% FEE FREE and will remain that way for the foreseeable future. This contract is a public good and is meant to inspire change in the NEAR ecosystem.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/costs.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/costs",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/costs",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/costs.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Costs",
+    "sidebar_position": 4
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Password Protected Keys",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/password-protect"
+  },
+  "next": {
+    "title": "Querying Information from Keypom",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/querying"
+  }
+}

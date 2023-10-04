@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Basics/simple-drops",
+  "id": "version-2.0/Tutorials/Basics/simple-drops",
+  "title": "Simple Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Basics/simple-drops.md",
+  "sourceDirName": "Tutorials/Basics",
+  "slug": "/Tutorials/Basics/simple-drops",
+  "permalink": "/docs/2.0/Tutorials/Basics/simple-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Basics/simple-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Simple Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/2.0/Tutorials/Basics/getting-started"
+  },
+  "next": {
+    "title": "Non Fungible Token Drop",
+    "permalink": "/docs/2.0/Tutorials/Basics/nft-drops"
+  }
+}

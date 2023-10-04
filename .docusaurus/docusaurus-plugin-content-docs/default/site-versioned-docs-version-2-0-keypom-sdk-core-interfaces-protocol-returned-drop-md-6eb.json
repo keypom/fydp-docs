@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+  "title": "Interface: ProtocolReturnedDrop",
+  "description": "Drop information returned from the Protocol. This interface is exactly the same as the Drop, except all the fields are",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDrop.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedDrop",
+    "title": "Interface: ProtocolReturnedDrop",
+    "sidebar_label": "ProtocolReturnedDrop",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "PasswordPerUse",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/PasswordPerUse"
+  },
+  "next": {
+    "title": "ProtocolReturnedDropConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDropConfig"
+  }
+}

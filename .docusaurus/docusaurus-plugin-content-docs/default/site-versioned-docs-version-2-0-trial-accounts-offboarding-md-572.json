@@ -1,0 +1,22 @@
+{
+  "unversionedId": "TrialAccounts/offboarding",
+  "id": "version-2.0/TrialAccounts/offboarding",
+  "title": "Introduction",
+  "description": "In this tutorial, you'll learn how to support trial accounts exiting into your wallet.",
+  "source": "@site/versioned_docs/version-2.0/TrialAccounts/offboarding.md",
+  "sourceDirName": "TrialAccounts",
+  "slug": "/TrialAccounts/offboarding",
+  "permalink": "/docs/2.0/TrialAccounts/offboarding",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/TrialAccounts/offboarding.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Offboarding Trial Accounts"
+  },
+  "sidebar": "TrialAccounts",
+  "previous": {
+    "title": "Integrating Into Your Apps",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/integration"
+  }
+}

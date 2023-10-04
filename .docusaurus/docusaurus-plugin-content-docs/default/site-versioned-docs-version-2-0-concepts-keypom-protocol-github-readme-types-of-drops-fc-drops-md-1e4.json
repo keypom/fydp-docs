@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+  "title": "Function Call Drops",
+  "description": "Function call drops are by far the most powerful feature that Keypom provides. FC drops allow any method on any",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Function Call Drops",
+    "sidebar_position": 5
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Fungible Token Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/ft-drops"
+  },
+  "next": {
+    "title": "Keypom Balances",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/balances"
+  }
+}

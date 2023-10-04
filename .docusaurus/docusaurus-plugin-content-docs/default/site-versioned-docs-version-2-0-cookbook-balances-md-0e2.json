@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Cookbook/balances",
+  "id": "version-2.0/Cookbook/balances",
+  "title": "Balances",
+  "description": "This part of the cookbook contains everything related to Keypom balances. This balance acts like a debit card, where you deposit $NEAR up front and create drop and interact with Keypom without needing to attach deposits to everything you do. For more on balances, see here.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/balances.md",
+  "sourceDirName": "Cookbook",
+  "slug": "/Cookbook/balances",
+  "permalink": "/docs/2.0/Cookbook/balances",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/balances.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Balances"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Keys",
+    "permalink": "/docs/2.0/Cookbook/keys"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+  "title": "Time Configurations",
+  "description": "Time configurations are particularly useful in defining limits on when a key may be used. This can have a wide range of applications from Subscriptions to Ticketing.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Time Configurations"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Drop Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization"
+  },
+  "next": {
+    "title": "Usage Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization"
+  }
+}

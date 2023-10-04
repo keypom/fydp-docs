@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/contribute",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/contribute",
+  "title": "Contributing",
+  "description": "First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are greatly appreciated.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/contribute.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/contribute",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/contribute",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/contribute.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Contributing",
+    "sidebar_position": 9
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Keypom Tests",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/testing"
+  },
+  "next": {
+    "title": "License and Acknowledgments",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/licenses"
+  }
+}

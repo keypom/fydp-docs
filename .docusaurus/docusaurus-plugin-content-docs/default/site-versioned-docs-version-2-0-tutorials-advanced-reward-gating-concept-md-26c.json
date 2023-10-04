@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/RewardGating/concept",
+  "id": "version-2.0/Tutorials/Advanced/RewardGating/concept",
+  "title": "Concept",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/RewardGating/concept.md",
+  "sourceDirName": "Tutorials/Advanced/RewardGating",
+  "slug": "/Tutorials/Advanced/RewardGating/concept",
+  "permalink": "/docs/2.0/Tutorials/Advanced/RewardGating/concept",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/RewardGating/concept.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Concept"
+  }
+}

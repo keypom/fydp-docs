@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/LinkdropsAndAccessKeys/near-access-keys",
+  "id": "version-2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys",
+  "title": "NEAR Access Key Model",
+  "description": "A Keypair is generated locally and the pubkey is add to your account.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys.md",
+  "sourceDirName": "Concepts/LinkdropsAndAccessKeys",
+  "slug": "/Concepts/LinkdropsAndAccessKeys/near-access-keys",
+  "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "NEAR Access Key Model",
+    "sidebar_position": 1
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Keypom Executive Summary",
+    "permalink": "/docs/2.0/exec-summary"
+  },
+  "next": {
+    "title": "Linkdrop Basics",
+    "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/customizations/timeConfig",
+  "id": "version-2.0/Cookbook/drops/customizations/timeConfig",
+  "title": "Time Configurations",
+  "description": "This part of the cookbook contains everything related to time configurations, including start and end times, a time throttled drop, and using it to create a recurring payment tool.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/customizations/timeConfig.md",
+  "sourceDirName": "Cookbook/drops/customizations",
+  "slug": "/Cookbook/drops/customizations/timeConfig",
+  "permalink": "/docs/2.0/Cookbook/drops/customizations/timeConfig",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/customizations/timeConfig.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Time Configurations"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Drop Configurations",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/dropConfig"
+  },
+  "next": {
+    "title": "Access Key Marketplace",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/saleConfig"
+  }
+}

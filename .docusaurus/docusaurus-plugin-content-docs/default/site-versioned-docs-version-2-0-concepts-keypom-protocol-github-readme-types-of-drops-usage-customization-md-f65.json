@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+  "title": "Usage Configurations",
+  "description": "Usage configurations control behaviors surrounding how a key can be used. For example, dictating whether a key can be used to call only claim, or createaccountand_claim.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Usage Configurations"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Time Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization"
+  },
+  "next": {
+    "title": "Public Sale Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization"
+  }
+}

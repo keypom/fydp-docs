@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/customizations/dropConfig",
+  "id": "version-2.0/Cookbook/drops/customizations/dropConfig",
+  "title": "Drop Configurations",
+  "description": "This part of the cookbook contains everything related to drop configurations, including multi-use drops, and creating custom subaccounts.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/customizations/dropConfig.md",
+  "sourceDirName": "Cookbook/drops/customizations",
+  "slug": "/Cookbook/drops/customizations/dropConfig",
+  "permalink": "/docs/2.0/Cookbook/drops/customizations/dropConfig",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/customizations/dropConfig.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Drop Configurations"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Password Protection",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/password"
+  },
+  "next": {
+    "title": "Time Configurations",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/timeConfig"
+  }
+}

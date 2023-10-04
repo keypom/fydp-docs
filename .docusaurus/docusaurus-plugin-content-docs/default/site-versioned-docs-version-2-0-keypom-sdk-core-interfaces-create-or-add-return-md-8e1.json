@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/CreateOrAddReturn",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn",
+  "title": "Interface: CreateOrAddReturn",
+  "description": "Information returned when creating a drop or adding keys via createDrop and addKeys respectively.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/CreateOrAddReturn",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "CreateOrAddReturn",
+    "title": "Interface: CreateOrAddReturn",
+    "sidebar_label": "CreateOrAddReturn",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "CreateDropProtocolArgs",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs"
+  },
+  "next": {
+    "title": "Drop",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/Drop"
+  }
+}

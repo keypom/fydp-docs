@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/subscriptions/introduction",
+  "id": "version-2.0/Tutorials/Advanced/subscriptions/introduction",
+  "title": "Introduction",
+  "description": "Recurring payments are quite a common situation. Let’s say you need to send a contractor $50 USDC every week for 10 weeks. With Web2, you would need to provide a payment method and trust the end user with this sensitive information.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/subscriptions/introduction.md",
+  "sourceDirName": "Tutorials/Advanced/subscriptions",
+  "slug": "/Tutorials/Advanced/subscriptions/introduction",
+  "permalink": "/docs/2.0/Tutorials/Advanced/subscriptions/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/subscriptions/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Final Product",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/final"
+  },
+  "next": {
+    "title": "Keypom BOS Components",
+    "permalink": "/docs/2.0/Tutorials/BOS/welcome"
+  }
+}

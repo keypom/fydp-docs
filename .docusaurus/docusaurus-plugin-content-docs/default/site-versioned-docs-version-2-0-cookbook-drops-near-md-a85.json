@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/NEAR",
+  "id": "version-2.0/Cookbook/drops/NEAR",
+  "title": "Simple NEAR Drops",
+  "description": "This part of the cookbook contains a quick guide on the simple NEAR drop.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/NEAR.md",
+  "sourceDirName": "Cookbook/drops",
+  "slug": "/Cookbook/drops/NEAR",
+  "permalink": "/docs/2.0/Cookbook/drops/NEAR",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/NEAR.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Simple NEAR Drops"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Cookbook/welcome"
+  },
+  "next": {
+    "title": "Non-Fungible Token Drops",
+    "permalink": "/docs/2.0/Cookbook/drops/nft"
+  }
+}

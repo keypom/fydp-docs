@@ -1,0 +1,863 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "3.0",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "DesignLog/main-log",
+          "docs": [
+            {
+              "id": "DesignLog/main-log",
+              "path": "/docs/DesignLog/main-log",
+              "sidebar": "DesignLog"
+            },
+            {
+              "id": "placeholder",
+              "path": "/docs/placeholder"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "Concepts": {},
+            "DesignLog": {
+              "link": {
+                "path": "/docs/DesignLog/main-log",
+                "label": "DesignLog/main-log"
+              }
+            },
+            "Tutorials": {},
+            "TrialAccounts": {},
+            "Cookbook": {},
+            "TypeDocSDK": {}
+          }
+        },
+        {
+          "name": "2.0",
+          "label": "2.0",
+          "isLast": false,
+          "path": "/docs/2.0",
+          "mainDocId": "Concepts/welcome",
+          "docs": [
+            {
+              "id": "Concepts/KeypomProtocol/balances",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/balances",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/contribute",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/contribute",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/costs",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/costs",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/Introduction/Introduction",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/licenses",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/licenses",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/password-protect",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/password-protect",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/querying",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/querying",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/testing",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/testing",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/ft-drops",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/ft-drops",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/KeypomProtocol/overview",
+              "path": "/docs/2.0/Concepts/KeypomProtocol/overview",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+              "path": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/LinkdropsAndAccessKeys/near-access-keys",
+              "path": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Concepts/welcome",
+              "path": "/docs/2.0/Concepts/welcome",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "Cookbook/balances",
+              "path": "/docs/2.0/Cookbook/balances",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/customizations/dropConfig",
+              "path": "/docs/2.0/Cookbook/drops/customizations/dropConfig",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/customizations/password",
+              "path": "/docs/2.0/Cookbook/drops/customizations/password",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/customizations/saleConfig",
+              "path": "/docs/2.0/Cookbook/drops/customizations/saleConfig",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/customizations/timeConfig",
+              "path": "/docs/2.0/Cookbook/drops/customizations/timeConfig",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/customizations/usageConfig",
+              "path": "/docs/2.0/Cookbook/drops/customizations/usageConfig",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/fc",
+              "path": "/docs/2.0/Cookbook/drops/fc",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/ft",
+              "path": "/docs/2.0/Cookbook/drops/ft",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/NEAR",
+              "path": "/docs/2.0/Cookbook/drops/NEAR",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/nft",
+              "path": "/docs/2.0/Cookbook/drops/nft",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/drops/trial",
+              "path": "/docs/2.0/Cookbook/drops/trial",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/keys",
+              "path": "/docs/2.0/Cookbook/keys",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "Cookbook/utilities",
+              "path": "/docs/2.0/Cookbook/utilities"
+            },
+            {
+              "id": "Cookbook/welcome",
+              "path": "/docs/2.0/Cookbook/welcome",
+              "sidebar": "Cookbook"
+            },
+            {
+              "id": "exec-summary",
+              "path": "/docs/2.0/exec-summary",
+              "sidebar": "Concepts"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/BasicTransaction",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/BasicTransaction",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ContractSourceMetadata",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/CreateOrAddReturn",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/Drop",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/Drop",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/DropConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/DropConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/EnvVars",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/EnvVars",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/FCData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/FCData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/FTData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/FTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/Funder",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/Funder",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/FungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/FungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/GeneratedKeyPairs",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/GeneratedKeyPairs",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/KeyInfo",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/KeyInfo",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/Method",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/Method",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/NFTData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/NFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/NonFungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/NonFungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/PasswordPerUse",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/PasswordPerUse",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDrop",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedDropConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDropConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedFCData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedFCData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedFTData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedMethod",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedMethod",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedNFTData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenObject",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenObject",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedPublicSaleConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedPublicSaleConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedSimpleData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedSimpleData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedTimeConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedTimeConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/PublicSaleConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/PublicSaleConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/SimpleData",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/SimpleData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/TimeConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/TimeConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/interfaces/UsageConfig",
+              "path": "/docs/2.0/keypom-sdk/Core/interfaces/UsageConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/modules",
+              "path": "/docs/2.0/keypom-sdk/Core/modules",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Core/welcome",
+              "path": "/docs/2.0/keypom-sdk/Core/welcome",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/classes/KeypomWallet",
+              "path": "/docs/2.0/keypom-sdk/Selector/classes/KeypomWallet",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/BasicTransaction",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/BasicTransaction",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ContractSourceMetadata",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ContractSourceMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/CreateDropProtocolArgs",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/CreateDropProtocolArgs",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/CreateOrAddReturn",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/CreateOrAddReturn",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/Drop",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/Drop",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/DropConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/DropConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/EnvVars",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/EnvVars",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/FCData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/FCData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/FTData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/FTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/Funder",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/Funder",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/FungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/FungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/GeneratedKeyPairs",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/GeneratedKeyPairs",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/KeyInfo",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/KeyInfo",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/Method",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/Method",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/NFTData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/NFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/PasswordPerUse",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/PasswordPerUse",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedDrop",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedDrop",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedDropConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedDropConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedFTData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedKeyInfo",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedKeyInfo",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedNFTData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNFTData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenMetadata",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenMetadata",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedPublicSaleConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedPublicSaleConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedSimpleData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedSimpleData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedTimeConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedTimeConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/ProtocolReturnedUsageConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedUsageConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/PublicSaleConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/PublicSaleConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/SimpleData",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/SimpleData",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/TimeConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/TimeConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/interfaces/UsageConfig",
+              "path": "/docs/2.0/keypom-sdk/Selector/interfaces/UsageConfig",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/modules",
+              "path": "/docs/2.0/keypom-sdk/Selector/modules",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "keypom-sdk/Selector/welcome",
+              "path": "/docs/2.0/keypom-sdk/Selector/welcome",
+              "sidebar": "TypeDocSDK"
+            },
+            {
+              "id": "TrialAccounts/Creation/drop-creation",
+              "path": "/docs/2.0/TrialAccounts/Creation/drop-creation",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "TrialAccounts/Creation/getting-started",
+              "path": "/docs/2.0/TrialAccounts/Creation/getting-started",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "TrialAccounts/Creation/integration",
+              "path": "/docs/2.0/TrialAccounts/Creation/integration",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "TrialAccounts/Creation/understanding-trial-accounts",
+              "path": "/docs/2.0/TrialAccounts/Creation/understanding-trial-accounts",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "TrialAccounts/introduction",
+              "path": "/docs/2.0/TrialAccounts/introduction",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "TrialAccounts/offboarding",
+              "path": "/docs/2.0/TrialAccounts/offboarding",
+              "sidebar": "TrialAccounts"
+            },
+            {
+              "id": "Tutorials/Advanced/AccessKeyMarketplace/concept",
+              "path": "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/concept"
+            },
+            {
+              "id": "Tutorials/Advanced/AccessKeyMarketplace/final",
+              "path": "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/final"
+            },
+            {
+              "id": "Tutorials/Advanced/AccessKeyMarketplace/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/CustomizedOnboarding/final",
+              "path": "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/final"
+            },
+            {
+              "id": "Tutorials/Advanced/CustomizedOnboarding/introduction",
+              "path": "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/introduction"
+            },
+            {
+              "id": "Tutorials/Advanced/CustomizedOnboarding/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/architecture",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/architecture",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/daobot",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/daobot",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/drop",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/drop",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/final",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/final",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/introduction",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/introduction",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/daos/security",
+              "path": "/docs/2.0/Tutorials/Advanced/daos/security",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/homepage",
+              "path": "/docs/2.0/Tutorials/Advanced/homepage",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/multi-sig/concept",
+              "path": "/docs/2.0/Tutorials/Advanced/multi-sig/concept"
+            },
+            {
+              "id": "Tutorials/Advanced/multi-sig/final",
+              "path": "/docs/2.0/Tutorials/Advanced/multi-sig/final"
+            },
+            {
+              "id": "Tutorials/Advanced/multi-sig/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/multi-sig/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/ReceiverContracts/concept",
+              "path": "/docs/2.0/Tutorials/Advanced/ReceiverContracts/concept"
+            },
+            {
+              "id": "Tutorials/Advanced/ReceiverContracts/final",
+              "path": "/docs/2.0/Tutorials/Advanced/ReceiverContracts/final"
+            },
+            {
+              "id": "Tutorials/Advanced/ReceiverContracts/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/ReceiverContracts/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/RewardGating/concept",
+              "path": "/docs/2.0/Tutorials/Advanced/RewardGating/concept"
+            },
+            {
+              "id": "Tutorials/Advanced/RewardGating/final",
+              "path": "/docs/2.0/Tutorials/Advanced/RewardGating/final"
+            },
+            {
+              "id": "Tutorials/Advanced/RewardGating/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/RewardGating/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/subscriptions/final",
+              "path": "/docs/2.0/Tutorials/Advanced/subscriptions/final"
+            },
+            {
+              "id": "Tutorials/Advanced/subscriptions/introduction",
+              "path": "/docs/2.0/Tutorials/Advanced/subscriptions/introduction",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/subscriptions/skeleton",
+              "path": "/docs/2.0/Tutorials/Advanced/subscriptions/skeleton"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/analytics",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/analytics",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/architecture",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/architecture",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/bos-tool",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/bos-tool",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/drop",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/drop",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/drop-test",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/drop-test",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/final",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/final",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/introduction",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/introduction",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/react-outline",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/react-outline",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/scanner-code",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/scanner-code",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Advanced/ticketing/user-code",
+              "path": "/docs/2.0/Tutorials/Advanced/ticketing/user-code",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Basics/fc-drops",
+              "path": "/docs/2.0/Tutorials/Basics/fc-drops",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Basics/ft-drops",
+              "path": "/docs/2.0/Tutorials/Basics/ft-drops",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Basics/getting-started",
+              "path": "/docs/2.0/Tutorials/Basics/getting-started",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Basics/nft-drops",
+              "path": "/docs/2.0/Tutorials/Basics/nft-drops",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Basics/simple-drops",
+              "path": "/docs/2.0/Tutorials/Basics/simple-drops",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/BOS/welcome",
+              "path": "/docs/2.0/Tutorials/BOS/welcome",
+              "sidebar": "Tutorials"
+            },
+            {
+              "id": "Tutorials/Misc/sign-txn",
+              "path": "/docs/2.0/Tutorials/Misc/sign-txn"
+            },
+            {
+              "id": "Tutorials/welcome",
+              "path": "/docs/2.0/Tutorials/welcome",
+              "sidebar": "Tutorials"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "Concepts": {
+              "link": {
+                "path": "/docs/2.0/Concepts/welcome",
+                "label": "Concepts/welcome"
+              }
+            },
+            "Tutorials": {
+              "link": {
+                "path": "/docs/2.0/Tutorials/welcome",
+                "label": "Tutorials/welcome"
+              }
+            },
+            "TrialAccounts": {
+              "link": {
+                "path": "/docs/2.0/TrialAccounts/introduction",
+                "label": "TrialAccounts/introduction"
+              }
+            },
+            "Cookbook": {
+              "link": {
+                "path": "/docs/2.0/Cookbook/welcome",
+                "label": "Cookbook/welcome"
+              }
+            },
+            "TypeDocSDK": {
+              "link": {
+                "path": "/docs/2.0/keypom-sdk/Core/welcome",
+                "label": "Readme"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

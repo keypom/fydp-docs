@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/final",
+  "id": "version-2.0/Tutorials/Advanced/daos/final",
+  "title": "Final Product",
+  "description": "Welcome to the last section of this DAO auto-registration tutorial! Here, you'll be seeing the full toolchain in action.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/final.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/final",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/final",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/final.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Final Product"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "DAO Bot Security Concerns",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/security"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/subscriptions/introduction"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/user-code",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/user-code",
+  "title": "Attendee Ticket Page Code",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/user-code.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/user-code",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/user-code",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/user-code.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Attendee Ticket Page Code"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "App Design",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/react-outline"
+  },
+  "next": {
+    "title": "Scanner Code",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/scanner-code"
+  }
+}

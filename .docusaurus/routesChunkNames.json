@@ -1,0 +1,727 @@
+{
+  "/__docusaurus/debug-ddd": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/__docusaurus/debug/config-852": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/__docusaurus/debug/content-5a4": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-58c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/__docusaurus/debug/metadata-b57": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/__docusaurus/debug/registry-3d2": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/__docusaurus/debug/routes-75e": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-901-9ca"
+    }
+  },
+  "/markdown-page-851": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-21-99c"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/search-305": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-94-e-803"
+    }
+  },
+  "/docs/2.0-831": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-2-0-f-2-d-e52"
+    },
+    "versionMetadata": "versionMetadata---docs-2-0783-478"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/balances-198": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-balances-860-445"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/contribute-dbe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-contributeba-2-2e2"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/costs-9ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-costs-6-b-5-833"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction-b5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-introduction-881-05f"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution-fe7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-introduction-our-solutionf-62-c9c"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/licenses-1a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-licenses-4-f-5-a6c"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/password-protect-911": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-password-protectafd-a20"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/querying-fb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-querying-9-bb-dbe"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/testing-87d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-testing-43-e-bfa"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage-1dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-customization-homepage-55-a-973"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization-263": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-drop-customizationbec-504"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops-9d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-fc-drops-1-e-4-2ea"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/ft-drops-1d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-ft-drops-102-cca"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction-440": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-introductionc-66-4f9"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops-e2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-nft-drops-302-843"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization-b68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-sale-customizatione-6-b-b0b"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops-058": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-simple-dropsc-45-f15"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization-7d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-time-customizationd-0-d-7ee"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization-061": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-github-readme-types-of-drops-usage-customizationf-65-78c"
+  },
+  "/docs/2.0/Concepts/KeypomProtocol/overview-614": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-keypom-protocol-overview-41-e-465"
+  },
+  "/docs/2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics-443": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-linkdrops-and-access-keys-linkdrop-basics-4-b-7-b0e"
+  },
+  "/docs/2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys-634": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-linkdrops-and-access-keys-near-access-keysf-89-4ef"
+  },
+  "/docs/2.0/Concepts/welcome-c90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-concepts-welcome-152-08c"
+  },
+  "/docs/2.0/Cookbook/balances-479": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-balances-0-e-2-c57"
+  },
+  "/docs/2.0/Cookbook/drops/customizations/dropConfig-8fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-customizations-drop-config-529-aa9"
+  },
+  "/docs/2.0/Cookbook/drops/customizations/password-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-customizations-password-17-f-5d6"
+  },
+  "/docs/2.0/Cookbook/drops/customizations/saleConfig-3ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-customizations-sale-configae-9-97a"
+  },
+  "/docs/2.0/Cookbook/drops/customizations/timeConfig-90b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-customizations-time-config-2-a-1-960"
+  },
+  "/docs/2.0/Cookbook/drops/customizations/usageConfig-973": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-customizations-usage-confige-88-4f5"
+  },
+  "/docs/2.0/Cookbook/drops/fc-17d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-fcd-75-a16"
+  },
+  "/docs/2.0/Cookbook/drops/ft-544": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-fta-6-c-a11"
+  },
+  "/docs/2.0/Cookbook/drops/NEAR-144": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-nea-ra-85-786"
+  },
+  "/docs/2.0/Cookbook/drops/nft-c7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-nft-0-a-0-718"
+  },
+  "/docs/2.0/Cookbook/drops/trial-042": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-drops-trialf-16-fbe"
+  },
+  "/docs/2.0/Cookbook/keys-7ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-keys-3-e-3-2ff"
+  },
+  "/docs/2.0/Cookbook/utilities-6d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-utilities-963-03d"
+  },
+  "/docs/2.0/Cookbook/welcome-175": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-cookbook-welcomef-2-b-b65"
+  },
+  "/docs/2.0/exec-summary-8ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-exec-summaryb-32-ba0"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/BasicTransaction-bfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-basic-transaction-0-d-1-dec"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata-243": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-contract-source-metadata-22-e-e6e"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs-8e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-create-drop-protocol-argsfe-4-c7d"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn-f63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-create-or-add-return-8-e-1-938"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/Drop-694": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-dropcc-8-f72"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/DropConfig-574": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-drop-config-91-c-f96"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/EnvVars-239": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-env-varsab-3-e7e"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/FCData-02b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-fc-data-617-c97"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/FTData-2f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-ft-data-78-c-613"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/Funder-a5f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-funder-7-ad-02e"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/FungibleTokenMetadata-b89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-fungible-token-metadataaa-1-39f"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/GeneratedKeyPairs-158": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-generated-key-pairs-3-a-0-5f0"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/KeyInfo-339": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-key-infoda-5-84f"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/Method-5b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-method-5-d-4-064"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/NFTData-6d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-nft-data-967-11f"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/NonFungibleTokenMetadata-cc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-non-fungible-token-metadata-59-b-5bc"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/PasswordPerUse-53d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-password-per-usea-87-718"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDrop-dce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-drop-6-eb-02a"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedDropConfig-620": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-drop-config-999-54b"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedFCData-b6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-fc-dataf-8-b-b3f"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedFTData-5b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-ft-data-359-f3c"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo-4da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-key-info-26-c-8a8"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedMethod-78d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-method-2-fd-0a3"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNFTData-523": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-nft-data-2-e-4-83b"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenMetadata-da4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-non-fungible-token-metadata-6-c-5-ee6"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedNonFungibleTokenObject-bb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-non-fungible-token-object-59-b-5d3"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedPublicSaleConfig-2ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-public-sale-config-2-ff-94e"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedSimpleData-8ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-simple-data-593-f68"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedTimeConfig-18f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-time-config-59-c-f26"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig-2e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-protocol-returned-usage-config-47-c-507"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/PublicSaleConfig-41b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-public-sale-configfd-2-b0a"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/SimpleData-5c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-simple-data-089-aa6"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/TimeConfig-aa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-time-config-9-f-4-ed0"
+  },
+  "/docs/2.0/keypom-sdk/Core/interfaces/UsageConfig-f8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-interfaces-usage-config-2-f-8-b90"
+  },
+  "/docs/2.0/keypom-sdk/Core/modules-417": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-modulesd-2-b-ed4"
+  },
+  "/docs/2.0/keypom-sdk/Core/welcome-060": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-core-welcome-956-887"
+  },
+  "/docs/2.0/keypom-sdk/Selector/classes/KeypomWallet-d33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-classes-keypom-wallet-9-cc-1c3"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/BasicTransaction-bb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-basic-transaction-9-d-6-999"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ContractSourceMetadata-e8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-contract-source-metadatad-1-e-317"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/CreateDropProtocolArgs-eb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-create-drop-protocol-args-919-23b"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/CreateOrAddReturn-421": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-create-or-add-returnf-31-a65"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/Drop-5a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-dropdd-5-64b"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/DropConfig-f5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-drop-config-10-a-bf8"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/EnvVars-5c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-env-vars-207-46f"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/FCData-4ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-fc-data-0-b-0-a4e"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/FTData-3bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-ft-dataf-4-f-be5"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/Funder-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-funder-80-d-5a3"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/FungibleTokenMetadata-22f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-fungible-token-metadata-64-c-c8c"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/GeneratedKeyPairs-138": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-generated-key-pairs-4-d-0-3b8"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/KeyInfo-945": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-key-info-38-f-5e9"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/Method-d08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-method-727-1d2"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/NFTData-199": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-nft-datacb-5-65b"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata-202": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-non-fungible-token-metadata-2-fc-b07"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/PasswordPerUse-2d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-password-per-usef-47-bca"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedDrop-d58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-drop-100-97b"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedDropConfig-3c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-drop-config-3-b-9-9cb"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData-911": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-fc-dataa-3-f-2ed"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFTData-991": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-ft-data-92-c-683"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedKeyInfo-598": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-key-infode-2-196"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod-42e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-methodf-2-b-196"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNFTData-9ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-nft-dataa-41-531"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenMetadata-2ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-non-fungible-token-metadata-00-c-e9c"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject-03a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-non-fungible-token-objectf-93-d28"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedPublicSaleConfig-401": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-public-sale-config-472-c8f"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedSimpleData-4af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-simple-data-1-de-26a"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedTimeConfig-f63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-time-configeb-3-5ef"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedUsageConfig-9fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-protocol-returned-usage-config-45-f-e3e"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/PublicSaleConfig-12b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-public-sale-configc-0-a-111"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/SimpleData-f01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-simple-data-570-d27"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/TimeConfig-30f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-time-config-4-a-2-0cd"
+  },
+  "/docs/2.0/keypom-sdk/Selector/interfaces/UsageConfig-2a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-interfaces-usage-confige-5-b-2ff"
+  },
+  "/docs/2.0/keypom-sdk/Selector/modules-7f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-modules-08-b-048"
+  },
+  "/docs/2.0/keypom-sdk/Selector/welcome-d24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-keypom-sdk-selector-welcomea-3-b-b82"
+  },
+  "/docs/2.0/TrialAccounts/Creation/drop-creation-aec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-creation-drop-creation-566-64b"
+  },
+  "/docs/2.0/TrialAccounts/Creation/getting-started-ea3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-creation-getting-started-688-d70"
+  },
+  "/docs/2.0/TrialAccounts/Creation/integration-e87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-creation-integration-2-a-3-122"
+  },
+  "/docs/2.0/TrialAccounts/Creation/understanding-trial-accounts-e8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-creation-understanding-trial-accountsad-8-b0c"
+  },
+  "/docs/2.0/TrialAccounts/introduction-4be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-introduction-24-c-ff4"
+  },
+  "/docs/2.0/TrialAccounts/offboarding-05a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-trial-accounts-offboarding-572-9b5"
+  },
+  "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/concept-033": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-access-key-marketplace-conceptafc-ef3"
+  },
+  "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/final-44d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-access-key-marketplace-finalf-44-a90"
+  },
+  "/docs/2.0/Tutorials/Advanced/AccessKeyMarketplace/skeleton-eac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-access-key-marketplace-skeletondd-3-9a4"
+  },
+  "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/final-2df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-customized-onboarding-finala-40-58c"
+  },
+  "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/introduction-68d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-customized-onboarding-introduction-8-b-1-930"
+  },
+  "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton-f35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-customized-onboarding-skeleton-359-b1a"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/architecture-1f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-architectureac-2-fda"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/daobot-298": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-daobot-635-3d5"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/drop-44a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-drop-7-b-7-f1d"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/final-32d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-finaldcb-b50"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/introduction-789": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-introduction-38-d-006"
+  },
+  "/docs/2.0/Tutorials/Advanced/daos/security-1d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-daos-security-21-b-4a5"
+  },
+  "/docs/2.0/Tutorials/Advanced/homepage-462": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-homepage-49-d-a7a"
+  },
+  "/docs/2.0/Tutorials/Advanced/multi-sig/concept-7ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-multi-sig-conceptdb-1-8b5"
+  },
+  "/docs/2.0/Tutorials/Advanced/multi-sig/final-6d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-multi-sig-final-5-ab-56a"
+  },
+  "/docs/2.0/Tutorials/Advanced/multi-sig/skeleton-da0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-multi-sig-skeletonbe-5-74e"
+  },
+  "/docs/2.0/Tutorials/Advanced/ReceiverContracts/concept-295": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-receiver-contracts-concept-3-e-6-2c1"
+  },
+  "/docs/2.0/Tutorials/Advanced/ReceiverContracts/final-07d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-receiver-contracts-final-894-56b"
+  },
+  "/docs/2.0/Tutorials/Advanced/ReceiverContracts/skeleton-57a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-receiver-contracts-skeleton-41-f-e64"
+  },
+  "/docs/2.0/Tutorials/Advanced/RewardGating/concept-7c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-reward-gating-concept-26-c-f2b"
+  },
+  "/docs/2.0/Tutorials/Advanced/RewardGating/final-3f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-reward-gating-final-0-b-0-985"
+  },
+  "/docs/2.0/Tutorials/Advanced/RewardGating/skeleton-0e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-reward-gating-skeleton-4-bd-49e"
+  },
+  "/docs/2.0/Tutorials/Advanced/subscriptions/final-d88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-subscriptions-finalddb-b85"
+  },
+  "/docs/2.0/Tutorials/Advanced/subscriptions/introduction-21f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-subscriptions-introductionbc-4-bf5"
+  },
+  "/docs/2.0/Tutorials/Advanced/subscriptions/skeleton-2cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-subscriptions-skeleton-013-45f"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/analytics-dae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-analytics-1-f-4-739"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/architecture-53c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-architecture-918-f74"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/bos-tool-d7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-bos-tool-93-e-bf0"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/drop-a46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-drop-239-c50"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/drop-test-92e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-drop-test-50-c-2bd"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/final-f5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-final-0-cf-dee"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/introduction-7d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-introduction-694-8c7"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/react-outline-929": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-react-outline-640-608"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/scanner-code-bf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-scanner-code-86-e-e08"
+  },
+  "/docs/2.0/Tutorials/Advanced/ticketing/user-code-1d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-advanced-ticketing-user-coded-73-d3a"
+  },
+  "/docs/2.0/Tutorials/Basics/fc-drops-18a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-basics-fc-drops-0-fc-ec0"
+  },
+  "/docs/2.0/Tutorials/Basics/ft-drops-79d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-basics-ft-drops-325-9b1"
+  },
+  "/docs/2.0/Tutorials/Basics/getting-started-0b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-basics-getting-starteddce-f19"
+  },
+  "/docs/2.0/Tutorials/Basics/nft-drops-36c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-basics-nft-drops-524-78d"
+  },
+  "/docs/2.0/Tutorials/Basics/simple-drops-70d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-basics-simple-drops-376-02d"
+  },
+  "/docs/2.0/Tutorials/BOS/welcome-92f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-bos-welcome-54-c-f22"
+  },
+  "/docs/2.0/Tutorials/Misc/sign-txn-10b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-misc-sign-txnafb-17a"
+  },
+  "/docs/2.0/Tutorials/welcome-03a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-tutorials-welcome-141-af2"
+  },
+  "/docs-e39": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-2-0-f-2-d-e52"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/DesignLog/main-log-2de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-log-main-log-585-2b1"
+  },
+  "/docs/placeholder-5ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-placeholder-5-d-9-031"
+  },
+  "/-116": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-21-99c"
+    },
+    "content": "content---f-39-267"
+  }
+}

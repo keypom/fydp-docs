@@ -4,13 +4,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'Keypom Docs',
+  title: 'Capstone Docs',
   tagline: 'Web3 Onboarding',
   url: 'https://docs.keypom.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/moon.svg',
+  favicon: 'img/mixed-logo.png',
   organizationName: 'Keypom', // Usually your GitHub org/user name.
   trailingSlash: false,
   themes: ['@docusaurus/theme-live-codeblock', '@saucelabs/theme-github-codeblock',
@@ -73,53 +73,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: '',
         logo: {
           alt: 'MOON',
-          src: 'img/newMoonCrop.svg',
-          srcDark: 'img/moon_white.png',
+          src: 'img/mixed-logo.svg',
+          srcDark: 'img/mixed-logo.png',
           href: '/'
         },
         items: [
           {
-            to: "docs/Concepts/welcome",
-            label: "📖 Concepts",
+            label: '📖 Design Log',
+            to: 'docs/placeholder',
             position: "left",
-          },
-          {
-            to: "docs/Tutorials/welcome",
-            label: "💻 Tutorials",
-            position: "left",
-          },
-          // {
-          //   to: "docs/KeypomV2/welcome",
-          //   label: "🤖 Keypom V2",
-          //   position: "left",
-          // },
-          {
-            to: "docs/TrialAccounts/introduction",
-            label: "🎁 Trial Accounts",
-            position: "left",
-          },
-          {
-            label: '🚀 BOS',
-            to: 'docs/Tutorials/BOS/welcome',
-          },
-          {
-            to: "docs/keypom-sdk/Core/welcome",
-            label: "📚 SDK TypeDocs",
-            position: "left",
-          },
-          {
-            to: "docs/Cookbook/welcome",
-            label: "🧑‍🍳 Cookbook",
-            position: "left",
-          },
-          {
-            type: 'docsVersionDropdown',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/keypom/keypom-docs/tree/main',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
@@ -132,30 +94,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: '📖 Concepts',
-                to: 'docs/Concepts/welcome',
+                label: '📖 Design Log',
+                to: 'docs/placeholder',
               },
-              {
-                label: '💻 Tutorials',
-                to: 'docs/Tutorials/welcome',
-              },
-              {
-                to: "docs/TrialAccounts/introduction",
-                label: "🎁 Trial Accounts",
-                position: "left",
-              },
-              {
-                label: '🚀 BOS',
-                to: 'docs/Tutorials/BOS/welcome',
-              },
-              {
-                label: "📚 SDK TypeDocs",
-                to: "docs/keypom-sdk/Core/welcome",
-              },
-              {
-                label: "🧑‍🍳 Cookbook",
-                to: "docs/Cookbook/welcome",
-              }
               // {
               //   label: "🤖Keypom V2",
               //   to: "docs/KeypomV2/welcome",

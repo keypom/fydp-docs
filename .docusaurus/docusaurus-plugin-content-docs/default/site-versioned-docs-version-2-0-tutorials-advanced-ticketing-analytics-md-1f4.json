@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/analytics",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/analytics",
+  "title": "View Event Analytics",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/analytics.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/analytics",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/analytics",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/analytics.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "View Event Analytics"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Final Product",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/final"
+  },
+  "next": {
+    "title": "🚀 BOS Version",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/bos-tool"
+  }
+}

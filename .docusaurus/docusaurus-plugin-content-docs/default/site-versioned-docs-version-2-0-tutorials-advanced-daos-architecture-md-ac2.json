@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/architecture",
+  "id": "version-2.0/Tutorials/Advanced/daos/architecture",
+  "title": "Solution Architecture",
+  "description": "In this section, you'll break down the requirements for the onboarding experience in order to create a solution architecture. This means translating the features from the introduction into tangible goals for the specific Keypom drop and its configurations.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/architecture.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/architecture",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/architecture",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/architecture.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Solution Architecture"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/introduction"
+  },
+  "next": {
+    "title": "Creating the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/drop"
+  }
+}

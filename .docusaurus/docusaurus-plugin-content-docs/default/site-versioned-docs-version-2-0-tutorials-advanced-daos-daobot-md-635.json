@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/daobot",
+  "id": "version-2.0/Tutorials/Advanced/daos/daobot",
+  "title": "The DAO Bot",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/daobot.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/daobot",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/daobot",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/daobot.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Designing the DAO Bot"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Creating the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/drop"
+  },
+  "next": {
+    "title": "DAO Bot Security Concerns",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/security"
+  }
+}

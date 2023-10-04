@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/moon.png',
+  favicon: 'img/mixed-logo.png',
   organizationName: 'minqianlu', // Usually your GitHub org/user name.
   projectName: 'minqianlu.github.io', // Usually your repo name.
   trailingSlash: false,
@@ -70,7 +70,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'KEYPOM',
         logo: {
           alt: 'MOON',
-          src: 'img/moon.png',
+          src: 'img/mixed-logo.png',
         },
         items: [
           {

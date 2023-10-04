@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TrialAccounts/Creation/integration",
+  "id": "version-2.0/TrialAccounts/Creation/integration",
+  "title": "Introduction",
+  "description": "In the previous tutorial, you looked at the script necessary to create the trial account drop and how simple it was. In this tutorial, you'll start a local version of the guest-book app and see how easy it is to integrate and support trial accounts.",
+  "source": "@site/versioned_docs/version-2.0/TrialAccounts/Creation/integration.md",
+  "sourceDirName": "TrialAccounts/Creation",
+  "slug": "/TrialAccounts/Creation/integration",
+  "permalink": "/docs/2.0/TrialAccounts/Creation/integration",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/TrialAccounts/Creation/integration.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Integrating Into Your Apps"
+  },
+  "sidebar": "TrialAccounts",
+  "previous": {
+    "title": "Create Your First Drop",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/drop-creation"
+  },
+  "next": {
+    "title": "Offboarding Trial Accounts",
+    "permalink": "/docs/2.0/TrialAccounts/offboarding"
+  }
+}

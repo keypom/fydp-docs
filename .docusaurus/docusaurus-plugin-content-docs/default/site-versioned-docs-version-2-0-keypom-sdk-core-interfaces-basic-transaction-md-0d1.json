@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/BasicTransaction",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/BasicTransaction",
+  "title": "Interface: BasicTransaction",
+  "description": "Properties",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/BasicTransaction.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/BasicTransaction",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/BasicTransaction",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "BasicTransaction",
+    "title": "Interface: BasicTransaction",
+    "sidebar_label": "BasicTransaction",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "Exports",
+    "permalink": "/docs/2.0/keypom-sdk/Core/modules"
+  },
+  "next": {
+    "title": "ContractSourceMetadata",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata"
+  }
+}

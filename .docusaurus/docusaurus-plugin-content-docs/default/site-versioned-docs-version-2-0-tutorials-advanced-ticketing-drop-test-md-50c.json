@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/drop-test",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/drop-test",
+  "title": "Testing the Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/drop-test.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/drop-test",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop-test",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/drop-test.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Testing the Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Creating the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop"
+  },
+  "next": {
+    "title": "App Design",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/react-outline"
+  }
+}

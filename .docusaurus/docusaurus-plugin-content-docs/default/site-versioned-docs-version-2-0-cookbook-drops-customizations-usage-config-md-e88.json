@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/drops/customizations/usageConfig",
+  "id": "version-2.0/Cookbook/drops/customizations/usageConfig",
+  "title": "Usage Configurations",
+  "description": "This part of the cookbook contains everything related to claiming behavior and usage configurations. These will range from permissions for different types of claims, to automatically deleting the drop once all the keys have been used.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/drops/customizations/usageConfig.md",
+  "sourceDirName": "Cookbook/drops/customizations",
+  "slug": "/Cookbook/drops/customizations/usageConfig",
+  "permalink": "/docs/2.0/Cookbook/drops/customizations/usageConfig",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/drops/customizations/usageConfig.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Claiming Behavior"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Access Key Marketplace",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/saleConfig"
+  },
+  "next": {
+    "title": "Keys",
+    "permalink": "/docs/2.0/Cookbook/keys"
+  }
+}

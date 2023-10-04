@@ -1,0 +1,27 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/UsageConfig",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/UsageConfig",
+  "title": "Interface: UsageConfig",
+  "description": "Within the config, there are configurable options related to how keys can be used. What permissions they have, whether an empty drop should be automatically deleted etc.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/UsageConfig.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/UsageConfig",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/UsageConfig",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "UsageConfig",
+    "title": "Interface: UsageConfig",
+    "sidebar_label": "UsageConfig",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "TimeConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/TimeConfig"
+  }
+}

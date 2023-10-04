@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+  "title": "Public Sale Configurations",
+  "description": "The public sale configuration gives the funder the ability to sell access keys in their drop with a variety of configurable behaviors such as the price, or a dedicated allowlist.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/sale-customization.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Public Sale Configurations"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Usage Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/usage-customization"
+  },
+  "next": {
+    "title": "Password Protected Keys",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/password-protect"
+  }
+}

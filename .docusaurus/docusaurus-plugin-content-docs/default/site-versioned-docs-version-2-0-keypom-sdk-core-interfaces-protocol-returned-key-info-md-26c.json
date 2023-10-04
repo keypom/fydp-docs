@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+  "title": "Interface: ProtocolReturnedKeyInfo",
+  "description": "Key information returned from the Protocol. This interface is exactly the same as the KeyInfo, except all the fields are",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedKeyInfo",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedKeyInfo",
+    "title": "Interface: ProtocolReturnedKeyInfo",
+    "sidebar_label": "ProtocolReturnedKeyInfo",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedFTData",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedFTData"
+  },
+  "next": {
+    "title": "ProtocolReturnedMethod",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedMethod"
+  }
+}

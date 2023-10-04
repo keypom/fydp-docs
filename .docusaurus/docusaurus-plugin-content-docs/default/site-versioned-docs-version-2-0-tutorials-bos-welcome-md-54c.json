@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/BOS/welcome",
+  "id": "version-2.0/Tutorials/BOS/welcome",
+  "title": "Keypom BOS Components",
+  "description": "Welcome! This a collection of useful BOS components from both Keypom and the community!",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/BOS/welcome.md",
+  "sourceDirName": "Tutorials/BOS",
+  "slug": "/Tutorials/BOS/welcome",
+  "permalink": "/docs/2.0/Tutorials/BOS/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/BOS/welcome.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Keypom BOS Components"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/subscriptions/introduction"
+  },
+  "next": {
+    "title": "Coming Soon...",
+    "permalink": "/docs/2.0/Tutorials/Advanced/homepage"
+  }
+}

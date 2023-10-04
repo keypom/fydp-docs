@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TrialAccounts/Creation/getting-started",
+  "id": "version-2.0/TrialAccounts/Creation/getting-started",
+  "title": "Introduction",
+  "description": "In the following tutorials, you'll learn how Trial Accounts work behind the scenes and how to create a basic drop that can be used to instantly sign a user into the guest-book app. You'll also learn about the underlying flow for the official Keypom wallet selector plugin and how it's used to create instant sign-in experiences for users.",
+  "source": "@site/versioned_docs/version-2.0/TrialAccounts/Creation/getting-started.md",
+  "sourceDirName": "TrialAccounts/Creation",
+  "slug": "/TrialAccounts/Creation/getting-started",
+  "permalink": "/docs/2.0/TrialAccounts/Creation/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/TrialAccounts/Creation/getting-started.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Before You Begin"
+  },
+  "sidebar": "TrialAccounts",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/2.0/TrialAccounts/introduction"
+  },
+  "next": {
+    "title": "Understanding Trial Accounts",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/understanding-trial-accounts"
+  }
+}

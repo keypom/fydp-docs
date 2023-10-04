@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+  "title": "Interface: ProtocolReturnedFCData",
+  "description": "FC Data returned from the Protocol. This interface is exactly the same as the FCData, except all the fields are",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFCData",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedFCData",
+    "title": "Interface: ProtocolReturnedFCData",
+    "sidebar_label": "ProtocolReturnedFCData",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedDropConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedDropConfig"
+  },
+  "next": {
+    "title": "ProtocolReturnedFTData",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedFTData"
+  }
+}

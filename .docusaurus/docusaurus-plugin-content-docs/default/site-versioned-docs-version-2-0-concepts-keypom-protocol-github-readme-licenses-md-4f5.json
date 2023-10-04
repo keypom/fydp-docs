@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/licenses",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/licenses",
+  "title": "License",
+  "description": "This project is licensed under the GPL License.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/licenses.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/licenses",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/licenses",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/licenses.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "License and Acknowledgments",
+    "sidebar_position": 10
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/contribute"
+  }
+}

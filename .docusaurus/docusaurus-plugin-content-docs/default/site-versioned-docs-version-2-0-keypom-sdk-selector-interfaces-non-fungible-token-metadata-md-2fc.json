@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+  "title": "Interface: NonFungibleTokenMetadata",
+  "description": "General structure of Non-Fungible Token Metadata (in camelCase) as per official NEP-177 standard (https://github.com/near/NEPs/blob/master/neps/nep-0177.md).",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/NonFungibleTokenMetadata",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "NonFungibleTokenMetadata",
+    "title": "Interface: NonFungibleTokenMetadata",
+    "sidebar_label": "NonFungibleTokenMetadata",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "NFTData",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/NFTData"
+  },
+  "next": {
+    "title": "PasswordPerUse",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/PasswordPerUse"
+  }
+}

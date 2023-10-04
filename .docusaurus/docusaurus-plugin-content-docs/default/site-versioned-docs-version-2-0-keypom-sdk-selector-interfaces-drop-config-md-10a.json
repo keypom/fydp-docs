@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/DropConfig",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/DropConfig",
+  "title": "Interface: DropConfig",
+  "description": "Configurable options for any drop regardless of type.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/DropConfig.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/DropConfig",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/DropConfig",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "DropConfig",
+    "title": "Interface: DropConfig",
+    "sidebar_label": "DropConfig",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "Drop",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/Drop"
+  },
+  "next": {
+    "title": "EnvVars",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/EnvVars"
+  }
+}

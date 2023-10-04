@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+  "id": "version-2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+  "title": "How Linkdrops Work",
+  "description": "For some background as to how linkdrops works on NEAR:",
+  "source": "@site/versioned_docs/version-2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics.md",
+  "sourceDirName": "Concepts/LinkdropsAndAccessKeys",
+  "slug": "/Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+  "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Linkdrop Basics",
+    "sidebar_position": 5
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "NEAR Access Key Model",
+    "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/near-access-keys"
+  },
+  "next": {
+    "title": "Introduction to Keypom",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/overview"
+  }
+}

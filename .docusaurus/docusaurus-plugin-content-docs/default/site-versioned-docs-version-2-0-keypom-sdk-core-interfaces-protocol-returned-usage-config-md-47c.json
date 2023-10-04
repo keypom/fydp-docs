@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+  "title": "Interface: ProtocolReturnedUsageConfig",
+  "description": "Usage Config information returned from the Protocol. This interface is exactly the same as the UsageConfig, except all the fields are",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedUsageConfig",
+    "title": "Interface: ProtocolReturnedUsageConfig",
+    "sidebar_label": "ProtocolReturnedUsageConfig",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedTimeConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedTimeConfig"
+  },
+  "next": {
+    "title": "PublicSaleConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/PublicSaleConfig"
+  }
+}

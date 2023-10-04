@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/subscriptions/skeleton",
+  "id": "version-2.0/Tutorials/Advanced/subscriptions/skeleton",
+  "title": "Skeleton Code",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/subscriptions/skeleton.md",
+  "sourceDirName": "Tutorials/Advanced/subscriptions",
+  "slug": "/Tutorials/Advanced/subscriptions/skeleton",
+  "permalink": "/docs/2.0/Tutorials/Advanced/subscriptions/skeleton",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/subscriptions/skeleton.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Skeleton Code"
+  }
+}

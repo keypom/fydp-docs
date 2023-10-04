@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/querying",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/querying",
+  "title": "Query Information From Keypom",
+  "description": "Keypom allows users to query a suite of different information from the contract. This information can be broken down into two separate objects that are returned. JsonDrops and JsonKeys.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/querying.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/querying",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/querying",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/querying.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Querying Information from Keypom",
+    "sidebar_position": 7
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Costs",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/costs"
+  },
+  "next": {
+    "title": "Keypom Tests",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/testing"
+  }
+}

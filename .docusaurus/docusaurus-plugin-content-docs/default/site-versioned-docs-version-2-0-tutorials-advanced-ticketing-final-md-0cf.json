@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/final",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/final",
+  "title": "Final Product",
+  "description": "Welcome to the last section of this ticketing app tutorial! Here, you'll be seeing the full app in action!",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/final.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/final",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/final",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/final.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Final Product"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Scanner Code",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/scanner-code"
+  },
+  "next": {
+    "title": "View Event Analytics",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/analytics"
+  }
+}

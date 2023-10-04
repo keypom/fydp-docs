@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/FTData",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/FTData",
+  "title": "Interface: FTData",
+  "description": "Information pertaining to all Fungible-Token drops. This should be passed in if the drop will be used to transfer any fungible tokens.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/FTData.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/FTData",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/FTData",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "FTData",
+    "title": "Interface: FTData",
+    "sidebar_label": "FTData",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "FCData",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/FCData"
+  },
+  "next": {
+    "title": "Funder",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/Funder"
+  }
+}

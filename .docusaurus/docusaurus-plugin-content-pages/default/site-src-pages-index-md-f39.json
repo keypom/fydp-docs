@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "description": "Capstone Docs",
+  "frontMatter": {
+    "id": "index",
+    "hide_table_of_contents": true
+  }
+}

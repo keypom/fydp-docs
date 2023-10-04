@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+  "title": "Interface: ProtocolReturnedNonFungibleTokenObject",
+  "description": "General structure of a Non-Fungible Token object as per official NEP-171 standard (https://github.com/near/NEPs/blob/master/neps/nep-0171.md).",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenObject",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedNonFungibleTokenObject",
+    "title": "Interface: ProtocolReturnedNonFungibleTokenObject",
+    "sidebar_label": "ProtocolReturnedNonFungibleTokenObject",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedNonFungibleTokenMetadata",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNonFungibleTokenMetadata"
+  },
+  "next": {
+    "title": "ProtocolReturnedPublicSaleConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedPublicSaleConfig"
+  }
+}

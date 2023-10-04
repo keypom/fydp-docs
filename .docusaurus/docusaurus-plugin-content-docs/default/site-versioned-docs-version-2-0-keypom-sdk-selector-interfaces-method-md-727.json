@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/Method",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/Method",
+  "title": "Interface: Method",
+  "description": "Outlines the information needed for any given method as part of a Function-Call drop.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/Method.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/Method",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/Method",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "Method",
+    "title": "Interface: Method",
+    "sidebar_label": "Method",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "KeyInfo",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/KeyInfo"
+  },
+  "next": {
+    "title": "NFTData",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/NFTData"
+  }
+}

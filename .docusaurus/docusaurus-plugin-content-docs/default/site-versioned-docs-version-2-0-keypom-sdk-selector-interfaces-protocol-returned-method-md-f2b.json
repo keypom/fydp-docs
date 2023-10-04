@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+  "title": "Interface: ProtocolReturnedMethod",
+  "description": "Method information returned from the Protocol. This interface is exactly the same as the Method, except all the fields are",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedMethod",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ProtocolReturnedMethod",
+    "title": "Interface: ProtocolReturnedMethod",
+    "sidebar_label": "ProtocolReturnedMethod",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedKeyInfo",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedKeyInfo"
+  },
+  "next": {
+    "title": "ProtocolReturnedNFTData",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/ProtocolReturnedNFTData"
+  }
+}

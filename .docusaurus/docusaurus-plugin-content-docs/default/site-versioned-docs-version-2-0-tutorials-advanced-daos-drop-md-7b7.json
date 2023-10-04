@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/drop",
+  "id": "version-2.0/Tutorials/Advanced/daos/drop",
+  "title": "Creating the Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/drop.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/drop",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/drop",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/drop.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Creating the Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Solution Architecture",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/architecture"
+  },
+  "next": {
+    "title": "Designing the DAO Bot",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/daobot"
+  }
+}

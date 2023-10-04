@@ -1,0 +1,27 @@
+{
+  "unversionedId": "keypom-sdk/Core/welcome",
+  "id": "version-2.0/keypom-sdk/Core/welcome",
+  "title": "@keypom/core - v1.0.2",
+  "description": "Keypom Core SDK",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/welcome.md",
+  "sourceDirName": "keypom-sdk/Core",
+  "slug": "/keypom-sdk/Core/welcome",
+  "permalink": "/docs/2.0/keypom-sdk/Core/welcome",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "welcome",
+    "title": "@keypom/core - v1.0.2",
+    "sidebar_label": "Readme",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "next": {
+    "title": "Exports",
+    "permalink": "/docs/2.0/keypom-sdk/Core/modules"
+  }
+}

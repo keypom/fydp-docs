@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/architecture",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/architecture",
+  "title": "Solution Architecture",
+  "description": "In this section, you'll break down the requirements of the ticketing system in order to better understand how to create a solution architecture. This means translating the features from the ticketing introduction into tangible goals for the specific Keypom drop and its configurations.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/architecture.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/architecture",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/architecture",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/architecture.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Solution Architecture"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/introduction"
+  },
+  "next": {
+    "title": "Creating the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+  "title": "What are Drop Configurations?",
+  "description": "What sets Keypom apart from the basic NEAR Linkdrop? One major aspect is that Keypom allows for LOADS of customization!",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "What are Drop Configurations?"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Keypom Balances",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/balances"
+  },
+  "next": {
+    "title": "Drop Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization"
+  }
+}

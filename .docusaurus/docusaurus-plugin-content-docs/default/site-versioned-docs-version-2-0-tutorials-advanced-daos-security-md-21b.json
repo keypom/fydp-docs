@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/security",
+  "id": "version-2.0/Tutorials/Advanced/daos/security",
+  "title": "DAO Bot Exploit Solution",
+  "description": "Up to this point, the DAO bot has a major security exploit. In this section, you'll learn about the exploit, how to fix it and how you can prevent similar exploits when writing Keypom compatible contracts in the future.",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/security.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/security",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/security",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/security.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "DAO Bot Security Concerns"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Designing the DAO Bot",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/daobot"
+  },
+  "next": {
+    "title": "Final Product",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/final"
+  }
+}

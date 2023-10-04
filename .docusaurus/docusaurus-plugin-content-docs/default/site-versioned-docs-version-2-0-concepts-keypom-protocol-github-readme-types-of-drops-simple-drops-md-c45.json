@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+  "title": "Simple Drops",
+  "description": "The most basic type of drop is the simple kind. Any keys that are part of a simple drop can",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/simple-drops.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Simple Drops",
+    "sidebar_position": 2
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction"
+  },
+  "next": {
+    "title": "Non Fungible Token Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/nft-drops"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cookbook/keys",
+  "id": "version-2.0/Cookbook/keys",
+  "title": "Keys",
+  "description": "This part of the cookbook contains everything related to keys in a drop, including adding keys to a drop, checking key usage and getting the number of active keys in a drop.",
+  "source": "@site/versioned_docs/version-2.0/Cookbook/keys.md",
+  "sourceDirName": "Cookbook",
+  "slug": "/Cookbook/keys",
+  "permalink": "/docs/2.0/Cookbook/keys",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Cookbook/keys.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Keys"
+  },
+  "sidebar": "Cookbook",
+  "previous": {
+    "title": "Claiming Behavior",
+    "permalink": "/docs/2.0/Cookbook/drops/customizations/usageConfig"
+  },
+  "next": {
+    "title": "Balances",
+    "permalink": "/docs/2.0/Cookbook/balances"
+  }
+}

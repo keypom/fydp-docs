@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TrialAccounts/Creation/drop-creation",
+  "id": "version-2.0/TrialAccounts/Creation/drop-creation",
+  "title": "Introduction",
+  "description": "Up until this point, you should have installed the Keypom SDK and its dependencies and should have a basic understanding of how trial accounts work and what is needed to create one. In this tutorial, you'll go through the process of creating the trial account drop that will be used to onboard users into the guest-book app.",
+  "source": "@site/versioned_docs/version-2.0/TrialAccounts/Creation/drop-creation.md",
+  "sourceDirName": "TrialAccounts/Creation",
+  "slug": "/TrialAccounts/Creation/drop-creation",
+  "permalink": "/docs/2.0/TrialAccounts/Creation/drop-creation",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/TrialAccounts/Creation/drop-creation.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Create Your First Drop"
+  },
+  "sidebar": "TrialAccounts",
+  "previous": {
+    "title": "Understanding Trial Accounts",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/understanding-trial-accounts"
+  },
+  "next": {
+    "title": "Integrating Into Your Apps",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/integration"
+  }
+}

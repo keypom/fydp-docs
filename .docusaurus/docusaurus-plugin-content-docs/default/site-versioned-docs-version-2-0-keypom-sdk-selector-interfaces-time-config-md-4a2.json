@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/interfaces/TimeConfig",
+  "id": "version-2.0/keypom-sdk/Selector/interfaces/TimeConfig",
+  "title": "Interface: TimeConfig",
+  "description": "Within the config, there are configurable options related to timing such as how often a key can be used.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/interfaces/TimeConfig.md",
+  "sourceDirName": "keypom-sdk/Selector/interfaces",
+  "slug": "/keypom-sdk/Selector/interfaces/TimeConfig",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/TimeConfig",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "TimeConfig",
+    "title": "Interface: TimeConfig",
+    "sidebar_label": "TimeConfig",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "SimpleData",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/SimpleData"
+  },
+  "next": {
+    "title": "UsageConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/interfaces/UsageConfig"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "TrialAccounts/introduction",
+  "id": "version-2.0/TrialAccounts/introduction",
+  "title": "Keypom Trial Accounts",
+  "description": "Keypom Trial Accounts are an exciting new opportunity for Web3 apps to seamlessly onboard users whether they’re completely new to crypto or seasoned veterans. With the click of a link, users require no software, wallet setup, wallet connection, and are instantly signed into apps with their trial account, ready to make on-chain transactions.",
+  "source": "@site/versioned_docs/version-2.0/TrialAccounts/introduction.md",
+  "sourceDirName": "TrialAccounts",
+  "slug": "/TrialAccounts/introduction",
+  "permalink": "/docs/2.0/TrialAccounts/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/TrialAccounts/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Getting Started"
+  },
+  "sidebar": "TrialAccounts",
+  "next": {
+    "title": "Before You Begin",
+    "permalink": "/docs/2.0/TrialAccounts/Creation/getting-started"
+  }
+}

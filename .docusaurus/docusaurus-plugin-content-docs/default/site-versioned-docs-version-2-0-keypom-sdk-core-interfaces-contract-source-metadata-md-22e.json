@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/ContractSourceMetadata",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata",
+  "title": "Interface: ContractSourceMetadata",
+  "description": "Information returned from getContractSourceMetadata about the deployed Keypom contract. This is part of NEP-330 and",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/ContractSourceMetadata",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "ContractSourceMetadata",
+    "title": "Interface: ContractSourceMetadata",
+    "sidebar_label": "ContractSourceMetadata",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "BasicTransaction",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/BasicTransaction"
+  },
+  "next": {
+    "title": "CreateDropProtocolArgs",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs"
+  }
+}

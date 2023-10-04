@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/Funder",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/Funder",
+  "title": "Interface: Funder",
+  "description": "Outlines how the structure of the funder object should be passed into initKeypom or updateFunder. This contains important information such as the",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/Funder.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/Funder",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/Funder",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "Funder",
+    "title": "Interface: Funder",
+    "sidebar_label": "Funder",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "FTData",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/FTData"
+  },
+  "next": {
+    "title": "FungibleTokenMetadata",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/FungibleTokenMetadata"
+  }
+}

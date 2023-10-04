@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+  "title": "Drop Configurations",
+  "description": "Drop Customizations via the DropConfig object passed into create_drop can help adjust the properties and behaviors of a drop to achieve specific use-cases.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/TypesOfDrops",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/drop-customization.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Drop Configurations"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "What are Drop Configurations?",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage"
+  },
+  "next": {
+    "title": "Time Configurations",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/time-customization"
+  }
+}

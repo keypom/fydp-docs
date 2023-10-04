@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/drop",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/drop",
+  "title": "Creating the Drop",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/drop.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/drop",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/drop.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Creating the Drop"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Solution Architecture",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/architecture"
+  },
+  "next": {
+    "title": "Testing the Drop",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/drop-test"
+  }
+}

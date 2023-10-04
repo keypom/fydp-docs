@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/overview",
+  "id": "version-2.0/Concepts/KeypomProtocol/overview",
+  "title": "Introduction to Keypom",
+  "description": "To view our debut talk at NEARCON 2022, click here.",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/overview.md",
+  "sourceDirName": "Concepts/KeypomProtocol",
+  "slug": "/Concepts/KeypomProtocol/overview",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/overview",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/overview.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Introduction to Keypom",
+    "sidebar_position": 1
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Linkdrop Basics",
+    "permalink": "/docs/2.0/Concepts/LinkdropsAndAccessKeys/linkdrop-basics"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/introduction"
+  }
+}

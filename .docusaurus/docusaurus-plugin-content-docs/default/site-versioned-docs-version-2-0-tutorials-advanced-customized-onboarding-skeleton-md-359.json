@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/CustomizedOnboarding/skeleton",
+  "id": "version-2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton",
+  "title": "Skeleton Code",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton.md",
+  "sourceDirName": "Tutorials/Advanced/CustomizedOnboarding",
+  "slug": "/Tutorials/Advanced/CustomizedOnboarding/skeleton",
+  "permalink": "/docs/2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/CustomizedOnboarding/skeleton.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Skeleton Code"
+  }
+}

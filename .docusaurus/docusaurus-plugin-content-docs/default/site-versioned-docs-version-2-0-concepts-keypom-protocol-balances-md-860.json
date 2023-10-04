@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/balances",
+  "id": "version-2.0/Concepts/KeypomProtocol/balances",
+  "title": "Keypom Balances",
+  "description": "What is a Keypom Balance?",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/balances.md",
+  "sourceDirName": "Concepts/KeypomProtocol",
+  "slug": "/Concepts/KeypomProtocol/balances",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/balances",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/balances.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Keypom Balances"
+  },
+  "sidebar": "Concepts",
+  "previous": {
+    "title": "Function Call Drops",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/fc-drops"
+  },
+  "next": {
+    "title": "What are Drop Configurations?",
+    "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/TypesOfDrops/customization-homepage"
+  }
+}

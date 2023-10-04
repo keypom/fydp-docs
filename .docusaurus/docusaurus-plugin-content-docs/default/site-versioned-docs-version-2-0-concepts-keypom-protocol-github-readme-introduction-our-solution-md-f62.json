@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution",
+  "id": "version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution",
+  "title": "Our Solution",
+  "description": "Keypom allows for the creation of highly customizable access keys. These keys can be thought of as having their",
+  "source": "@site/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution.md",
+  "sourceDirName": "Concepts/KeypomProtocol/GithubReadme/Introduction",
+  "slug": "/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution",
+  "permalink": "/docs/2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Concepts/KeypomProtocol/GithubReadme/Introduction/our-solution.md",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Keypom Solution",
+    "sidebar_position": 2
+  }
+}

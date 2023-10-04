@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Selector/modules",
+  "id": "version-2.0/keypom-sdk/Selector/modules",
+  "title": "@keypom/selector - v1.2.0",
+  "description": "Classes",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Selector/modules.md",
+  "sourceDirName": "keypom-sdk/Selector",
+  "slug": "/keypom-sdk/Selector/modules",
+  "permalink": "/docs/2.0/keypom-sdk/Selector/modules",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "id": "modules",
+    "title": "@keypom/selector - v1.2.0",
+    "sidebar_label": "Exports",
+    "sidebar_position": 0.5,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "Readme",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/welcome"
+  },
+  "next": {
+    "title": "KeypomWallet",
+    "permalink": "/docs/2.0/keypom-sdk/Selector/classes/KeypomWallet"
+  }
+}

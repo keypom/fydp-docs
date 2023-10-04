@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/EnvVars",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/EnvVars",
+  "title": "Interface: EnvVars",
+  "description": "Important context that is used throughout the SDK. This is generated when initKeypom is called and can be retrieved by calling useKeypom.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/EnvVars.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/EnvVars",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/EnvVars",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "EnvVars",
+    "title": "Interface: EnvVars",
+    "sidebar_label": "EnvVars",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "DropConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/DropConfig"
+  },
+  "next": {
+    "title": "FCData",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/FCData"
+  }
+}

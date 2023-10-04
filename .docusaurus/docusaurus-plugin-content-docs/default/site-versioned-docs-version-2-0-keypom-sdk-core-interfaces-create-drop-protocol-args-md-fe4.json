@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+  "title": "Interface: CreateDropProtocolArgs",
+  "description": "Properties",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/CreateDropProtocolArgs",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "CreateDropProtocolArgs",
+    "title": "Interface: CreateDropProtocolArgs",
+    "sidebar_label": "CreateDropProtocolArgs",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ContractSourceMetadata",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ContractSourceMetadata"
+  },
+  "next": {
+    "title": "CreateOrAddReturn",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/CreateOrAddReturn"
+  }
+}

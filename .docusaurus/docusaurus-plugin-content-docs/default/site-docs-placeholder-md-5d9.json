@@ -1,0 +1,15 @@
+{
+  "unversionedId": "placeholder",
+  "id": "placeholder",
+  "title": "placeholder",
+  "description": "place is held",
+  "source": "@site/docs/placeholder.md",
+  "sourceDirName": ".",
+  "slug": "/placeholder",
+  "permalink": "/docs/placeholder",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/docs/placeholder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

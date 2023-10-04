@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Tutorials/Advanced/RewardGating/final",
+  "id": "version-2.0/Tutorials/Advanced/RewardGating/final",
+  "title": "Final Product",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/RewardGating/final.md",
+  "sourceDirName": "Tutorials/Advanced/RewardGating",
+  "slug": "/Tutorials/Advanced/RewardGating/final",
+  "permalink": "/docs/2.0/Tutorials/Advanced/RewardGating/final",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/RewardGating/final.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Final Product"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/ticketing/scanner-code",
+  "id": "version-2.0/Tutorials/Advanced/ticketing/scanner-code",
+  "title": "Scanner Code",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/scanner-code.md",
+  "sourceDirName": "Tutorials/Advanced/ticketing",
+  "slug": "/Tutorials/Advanced/ticketing/scanner-code",
+  "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/scanner-code",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/ticketing/scanner-code.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Scanner Code"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "Attendee Ticket Page Code",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/user-code"
+  },
+  "next": {
+    "title": "Final Product",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/final"
+  }
+}

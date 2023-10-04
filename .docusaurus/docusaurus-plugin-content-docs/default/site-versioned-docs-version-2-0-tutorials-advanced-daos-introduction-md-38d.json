@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Advanced/daos/introduction",
+  "id": "version-2.0/Tutorials/Advanced/daos/introduction",
+  "title": "Introduction",
+  "description": "In this tutorial, you'll learn how to create a seamless DAO registration experience that allows you to onboard anyone directly into your DAO with the click of a link!",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Advanced/daos/introduction.md",
+  "sourceDirName": "Tutorials/Advanced/daos",
+  "slug": "/Tutorials/Advanced/daos/introduction",
+  "permalink": "/docs/2.0/Tutorials/Advanced/daos/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/keypom/keypom-docs/tree/main/versioned_docs/version-2.0/Tutorials/Advanced/daos/introduction.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Tutorials",
+  "previous": {
+    "title": "🚀 BOS Version",
+    "permalink": "/docs/2.0/Tutorials/Advanced/ticketing/bos-tool"
+  },
+  "next": {
+    "title": "Solution Architecture",
+    "permalink": "/docs/2.0/Tutorials/Advanced/daos/architecture"
+  }
+}

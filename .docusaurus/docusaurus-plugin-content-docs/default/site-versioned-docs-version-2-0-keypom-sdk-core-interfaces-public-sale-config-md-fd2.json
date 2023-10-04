@@ -1,0 +1,31 @@
+{
+  "unversionedId": "keypom-sdk/Core/interfaces/PublicSaleConfig",
+  "id": "version-2.0/keypom-sdk/Core/interfaces/PublicSaleConfig",
+  "title": "Interface: PublicSaleConfig",
+  "description": "Within the config, there are configurable options related to how keys can be sold and a funder can potentially make a profit.",
+  "source": "@site/versioned_docs/version-2.0/keypom-sdk/Core/interfaces/PublicSaleConfig.md",
+  "sourceDirName": "keypom-sdk/Core/interfaces",
+  "slug": "/keypom-sdk/Core/interfaces/PublicSaleConfig",
+  "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/PublicSaleConfig",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "PublicSaleConfig",
+    "title": "Interface: PublicSaleConfig",
+    "sidebar_label": "PublicSaleConfig",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "TypeDocSDK",
+  "previous": {
+    "title": "ProtocolReturnedUsageConfig",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/ProtocolReturnedUsageConfig"
+  },
+  "next": {
+    "title": "SimpleData",
+    "permalink": "/docs/2.0/keypom-sdk/Core/interfaces/SimpleData"
+  }
+}
